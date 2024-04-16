@@ -1,8 +1,8 @@
 copyright: '&copy; 2023 Dipl.-Ing. Thomas Wetterer'
 links:
   - text: Impressum
-    url: '/impressum'
+    url: 'impressum'
     new_window: false
   - text: Datenschutzerklärung
-    url: '/impressum'
+    url: 'datenschutzerklaerung'
     new_window: false
