@@ -27,6 +27,17 @@ author     : Thomas Wetterer
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
+include:
+  - .htaccess
+  - _pages
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages" 
+    values:
+      layout: "page" # overrides previous default layout
+
 analytics:
   google: #Google Analytics tracking code here
 
