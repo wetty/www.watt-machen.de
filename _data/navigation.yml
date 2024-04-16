@@ -23,6 +23,8 @@ de: &DEFAULT_DE
       section: team
     - title: "Kontakt"
       section: kontakt
+de-DE:
+  <<: *DEFAULT_DE
 
 # English (default)
 # -----------------
