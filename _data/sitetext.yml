@@ -130,9 +130,9 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
-    section: kontakt
+    title: "Kontaktieren Sie uns"
+    text: "thomas@wetterer.de oder 0163 8493889"
+    section: contact
     name: "Name*"
     name-validation: "Please enter your name."
     email: "Email*"

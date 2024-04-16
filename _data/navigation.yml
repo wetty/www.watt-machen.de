@@ -22,7 +22,7 @@ de: &DEFAULT_DE
     - title: "Team"
       section: team
     - title: "Kontakt"
-      section: kontakt
+      section: contact
 de-DE:
   <<: *DEFAULT_DE
 
