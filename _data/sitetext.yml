@@ -26,10 +26,10 @@ de: &DEFAULT_DE
         icon: fas fa-car-battery #find more at https://fontawesome.com/icons
       - title: "Smart Home"
         desc: "Sie wollen Ihren Strom dann verbrauchen, wenn er vorhanden ist? Smart Home Beratung und individuelle Smart Home Lösungen"
-        icon: fas fa-house-signal
+        icon: fa-house-signal
       - title: "Geheimnis"
         desc: "Sie wissen nicht ob man Ihre Frage überhaupt beantworten kann? Stellen Sie mich auf die Probe"
-        icon: fab fa-ghost
+        icon: fa-ghost
 
   portfolio:
     title: "Portfolio"
