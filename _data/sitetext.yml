@@ -11,25 +11,25 @@
 # -----------------
 de: &DEFAULT_DE
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Willkommen!
+    text: Sie möchten Ihren Strom speichern?
+    button: Ja!
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Leistungen"
+    text: "Als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei folgenden Fragen unterstützen"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Stromspeicher"
+        desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
+        icon: fas fa-car-battery #find more at https://fontawesome.com/icons
+      - title: "Smart Home"
+        desc: "Sie wollen Ihren Strom dann verbrauchen, wenn er vorhanden ist? Smart Home Beratung und individuelle Smart Home Lösungen"
+        icon: fas fa-house-signal
+      - title: "Geheimnis"
+        desc: "Sie wissen nicht ob man Ihre Frage überhaupt beantworten kann? Stellen Sie mich auf die Probe"
+        icon: fab fa-ghost
 
   portfolio:
     title: "Portfolio"
