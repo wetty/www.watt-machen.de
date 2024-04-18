@@ -44,29 +44,54 @@ de: &DEFAULT_DE
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "eAuto"
+        year: "Juni 2023"
+        desc: "Wir haben zuviel Strom. Kurzerhand soll ein Elektro Auto in Form eines FIAT 500 Elektro dieses Problem mildern."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Speicher sind gefragt"
+        year: "2023"
+        desc: "Der erste Speicher im Auftrag wird gebaut. In diesem Rahmen wird unser eigener Speicher von 14,4 kWh auf 34 kWh erweitert."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Ein Speicher muß her"
+        year: "Dezember 2022"
+        desc: "Unsere PV deckt unseren Bedarf nur mit maximal 50%. Der erste Strom Speicher mit 14,4 kWh wird gebaut."
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Unsere PV ist da"
+        year: "August 2022"
+        desc: "Nachdem erst unser Dach saniert wurde kommt endlich unsere Photovoltaik Anlage mit 19,125 kWp"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Atlantiküberquerung"
+        year: "2016"
+        desc: "Vier Wochen Auszeit um den Atlantik mit einer Segelyacht von den Kap-Verden bis Barbados zu überqueren"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Fotos aus der Box"
+        year: "2015"
+        desc: "Nach überwältigendem Erfolg mit einer selbst gebauten FotoBox beginne ich diese zu vermieten https://www.fotos-aus-der-box.de"
+        image: assets/img/timeline/1.jpg
+        alt:
+      - title: "Eigenes Ingenieur Büro"
+        year: "seit 2005"
+        desc: "Nach 10 Jahren als Angestellter mache ich mich mit einem eigenen Ingenieur Büro im Bereich Softwareentwicklung selbstständig"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Software Entwickler, Abteilungsleiter, Director Technology"
+        year: "bis 2005"
+        desc: "Als Software Entwickler in einem Business Reisebüro begonnen. Später Leiter der Entwicklungsabteilung und zum Schluß als Director Technology für alle technischen Bereiche zuständig. In der Position mit dem Unternehmen 1999 an die Börse gegangen"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Abschluss Diplom Elekroingenieur"
+        year: "1993"
+        desc: "Erfolgreich das Studium der Elektrotechnik an der Technischen Hochschule (heute Technische Universität) in Darmstadt abgeschlossen"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Werden Sie Teil <br> unserer <br> Story!"
 
   about:
     title: "About Us"
