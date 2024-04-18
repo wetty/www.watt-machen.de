@@ -44,6 +44,11 @@ de: &DEFAULT_DE
     # left is the default
     #start_align: "left"
     events:
+      - title: "Stündlicher Stromtarif"
+        year: "Juni 2024"
+        desc: "Zum ersten Juni wechseln wir zu Tibber als Stromanbieter für eine stündlichen Stromtarif https://invite.tibber.com/otkltc5p"
+        image: assets/img/timeline/1.jpg
+        alt:
       - title: "eAuto"
         year: "Juni 2023"
         desc: "Wir haben zuviel Strom. Kurzerhand soll ein Elektro Auto in Form eines FIAT 500 Elektro dieses Problem mildern."
@@ -91,7 +96,7 @@ de: &DEFAULT_DE
         alt:
         # you can enforce the alignment
         align: right
-    end: "Werden Sie Teil <br> unserer <br> Story!"
+    end: "Werden Sie <br> Teil der <br> Story!"
 
   about:
     title: "About Us"
