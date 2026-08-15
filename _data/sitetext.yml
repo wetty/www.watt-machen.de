@@ -46,7 +46,7 @@ de: &DEFAULT_DE
     events:
       - title: "Stündlicher Stromtarif"
         year: "Juni 2024"
-        desc: "Zum ersten Juni wechseln wir zu Tibber als Stromanbieter für eine stündlichen Stromtarif https://invite.tibber.com/otkltc5p"
+        desc: "Zum ersten Juni wechseln wir zu Tibber als Stromanbieter für eine stündlichen Stromtarif [Bonus](https://invite.tibber.com/otkltc5p)"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "eAuto"
