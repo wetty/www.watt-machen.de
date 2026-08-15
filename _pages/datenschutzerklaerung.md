@@ -43,9 +43,9 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 
-Thomas Wetterer    
-Breslauer Strasse 44    
-64579 Gernsheim
+Dipl.-Ing. Elektrotechnik Thomas Wetterer    
+Fasanenring 21    
+64823 Groß-Umstadt
 
 Telefon: +49 6259 5102865 0    
 Mobil: +49 163 8493889    
