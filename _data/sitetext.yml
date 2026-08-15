@@ -12,8 +12,8 @@
 de: &DEFAULT_DE
   header:
     title: Willkommen!
-    text: Sie möchten Ihren Strom speichern?
-    button: Ja!
+    text: Lassen Sie uns Watt machen.
+    button: Watt machen
     buttonlink: "#services"
 
   services:
