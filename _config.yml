@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Watt machen
 email      : thomas@wetterer.de #this is also the email contact forms will go to
-description: "Kostengünstige Speichersysteme für Ihren Photovoltaik Strom"
+description: "Beratung durch einen unabhängigen Elektroingenieur"
 author     : Thomas Wetterer
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
