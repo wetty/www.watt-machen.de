@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase /
+
+# 1. Entfernt die .html Endung bei direktem Aufruf (suchmaschinenfreundlicher 301-Redirect)
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
+RewriteRule ^ %1 [R=301,L]
+
+# 2. Erlaubt den Aufruf ohne Endung: Verknüpft /impressum intern mit der Datei impressum.html
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]
