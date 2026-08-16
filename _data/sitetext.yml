@@ -18,7 +18,7 @@ de: &DEFAULT_DE
 
   services:
     title: "Leistungen"
-    text: "Als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei folgenden Fragen unterstützen"
+    text: "Als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei folgenden Fragen unterstützen. Unabhängige Ingenieurberatung für PV, Speicher, E-Mobilität & Smart Home – herstellerneutral, fundiert und auf Ihr Gebäude maßgeschneidert."
     section: leistungen
     list:
       - title: "Stromspeicher"
