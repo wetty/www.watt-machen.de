@@ -29,7 +29,8 @@ locale: "de-DE" # See available languages in _data/sitetext.yml
 
 formspree_form_path: "f/mwlenwna"
 
-permalink: pretty
+# permalink: pretty
+permalink: /:title
 
 include:
   - .htaccess
