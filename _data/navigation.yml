@@ -23,6 +23,8 @@ de: &DEFAULT_DE
       section: team
     - title: "Kontakt"
       section: contact
+    - title: "Impressum"
+      url: ./impressum
 de-DE:
   <<: *DEFAULT_DE
 
