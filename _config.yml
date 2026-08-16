@@ -19,13 +19,18 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Watt machen
 email      : thomas@wetterer.de #this is also the email contact forms will go to
-description: "Kostengünstige Speichersysteme für Ihren Photovoltaik Strom"
+description: "Beratung durch einen unabhängigen Elektroingenieur"
 author     : Thomas Wetterer
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
 locale: "de-DE" # See available languages in _data/sitetext.yml
+
+formspree_form_path: "f/mwlenwna"
+
+# permalink: pretty
+# permalink: /:title
 
 include:
   - .htaccess
@@ -36,7 +41,8 @@ defaults:
       path: ""
       type: "pages" 
     values:
-      layout: "page" # overrides previous default layout
+      layout: page # overrides previous default layout
+#      permalink: /:basename/
 
 analytics:
   google: #Google Analytics tracking code here

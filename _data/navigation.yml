@@ -11,8 +11,8 @@
 # -----------------
 de: &DEFAULT_DE
   nav:
-    - title: "Services"
-      section: services
+    - title: "Leistungen"
+      section: leistungen
     - title: "Portfolio"
       section: portfolio
     - title: "About"
@@ -23,6 +23,8 @@ de: &DEFAULT_DE
       section: team
     - title: "Kontakt"
       section: contact
+    - title: "Impressum"
+      url: impressum
 de-DE:
   <<: *DEFAULT_DE
 
