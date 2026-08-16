@@ -33,6 +33,12 @@ de: &DEFAULT_DE
       - title: "Wallbox"
         desc: "Ihre Wallbox ist nicht smart genug"
         icon: fas fa-charging-station
+      - title: "evcc"
+        desc: "Echtes überschuss laden auch mit Ihrer aktuellen Wallbox"
+        icon: fas fa-bolt     
+      - title: "Home Assistant"
+        desc: "Machen Sie Ihr Haus smarter, damit es dann Strom verbraucht, wenn Ihre PV ihn liefert"
+        icon: fas fa-house-user
   
   portfolio:
     title: "Portfolio"
