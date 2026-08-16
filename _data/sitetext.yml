@@ -32,7 +32,7 @@ de: &DEFAULT_DE
         icon: fas fa-ghost
       - title: "Wallbox"
         desc: "Ihre Wallbox ist nicht smart genug"
-        icon: fa-solid fa-charging-station
+        icon: fas fa-charging-station
   
   portfolio:
     title: "Portfolio"
