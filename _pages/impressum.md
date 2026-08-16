@@ -1,6 +1,5 @@
 ---
 title: "Impressum"
-excerpt: "Impressum"
 permalink: /impressum/
 ---
 

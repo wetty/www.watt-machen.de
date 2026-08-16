@@ -24,7 +24,7 @@ de: &DEFAULT_DE
     - title: "Kontakt"
       section: contact
     - title: "Impressum"
-      url: ./impressum
+      url: impressum
 de-DE:
   <<: *DEFAULT_DE
 
