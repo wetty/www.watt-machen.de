@@ -19,7 +19,7 @@ de: &DEFAULT_DE
   services:
     title: "Leistungen"
     text: "Als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei folgenden Fragen unterstützen"
-    section: services
+    section: leistungen
     list:
       - title: "Stromspeicher"
         desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
