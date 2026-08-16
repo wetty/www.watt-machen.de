@@ -30,7 +30,10 @@ de: &DEFAULT_DE
       - title: "Geheimnis"
         desc: "Sie wissen nicht ob man Ihre Frage überhaupt beantworten kann? Stellen Sie mich auf die Probe"
         icon: fas fa-ghost
-
+      - title: "Wallbox"
+        desc: "Ihre Wallbox ist nicht smart genug"
+        icon: fas charging-station
+  
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
