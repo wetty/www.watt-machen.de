@@ -30,7 +30,7 @@ locale: "de-DE" # See available languages in _data/sitetext.yml
 formspree_form_path: "f/mwlenwna"
 
 # permalink: pretty
-permalink: /:title
+# permalink: /:title
 
 include:
   - .htaccess
@@ -42,6 +42,7 @@ defaults:
       type: "pages" 
     values:
       layout: page # overrides previous default layout
+      permalink: /:basename/
 
 analytics:
   google: #Google Analytics tracking code here
