@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-permalink: /legal
+permalink: /datenschutz
 ---
 
 ## 1. Datenschutz auf einen Blick ##
