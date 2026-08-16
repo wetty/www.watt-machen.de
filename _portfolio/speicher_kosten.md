@@ -9,7 +9,13 @@ caption:
   subtitle: Illustration
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Je nachdem wem man glaubt gehen die Meinungen was Stromspeicher betrifft von 'Braucht man unbediungt' bis hin zu 'Stromspeicher sind nur reines Hobby'
+
+Die Wahrheit liegt wie so oft irgendwo dazwischen und hängt von vielen Faktoren ab.
+
+Nehmen wir mal einen 5kWh Speicher, der rund 5000 € kostet.
+
+
 
 {:.list-inline}
 - Date: January 2017
