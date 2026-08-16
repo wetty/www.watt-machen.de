@@ -27,6 +27,8 @@ author     : Thomas Wetterer
 
 locale: "de-DE" # See available languages in _data/sitetext.yml
 
+formspree_form_path: "f/mwlenwna"
+
 include:
   - .htaccess
   - _pages
