@@ -50,7 +50,7 @@ jobs:
           JEKYLL_ENV: production
       # ZUSÄTZLICHER SCHRITT: Dateien parallel auf den FTP-Server hochladen
       - name: FTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
