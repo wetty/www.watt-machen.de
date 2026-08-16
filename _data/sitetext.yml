@@ -172,7 +172,7 @@ de: &DEFAULT_DE
     message: "Nachricht*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Nachricht senden"
 
   footer:
     legal: "Datenschutz"
