@@ -38,7 +38,7 @@ defaults:
       path: ""
       type: "pages" 
     values:
-      layout: "page" # overrides previous default layout
+      layout: page # overrides previous default layout
 
 analytics:
   google: #Google Analytics tracking code here
