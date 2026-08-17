@@ -53,11 +53,16 @@ de: &DEFAULT_DE
     # left is the default
     #start_align: "left"
     events:
-      - title: "Stündlicher Stromtarif"
-        year: "Juni 2024"
-        desc: "Zum ersten Juni wechseln wir zu Tibber als Stromanbieter für eine stündlichen Stromtarif [Bonus](https://invite.tibber.com/otkltc5p)"
-        image: assets/img/timeline/1.jpg
-        alt:
+      - title: "Energiegenossenschaft Groß-Umstadt"
+        year: "06. Juni 2026"
+        desc: "Mitglied der [Energiegenossenschaft Groß-Umstadt](https://eg-gross-umstadt.de/)"
+        image: assets/img/timeline/logo_egu.jpg
+        alt: Energiegenossenschaft Groß-Umstadt
+      - title: "Heinergy Stromcommunity"
+        year: "01. April 2026"
+        desc: "UNsere PV liefert nun Strom für an die [Heinergy Stromcommunity](https://www.heinergy.de/)"
+        image: assets/img/timeline/heinergy_logo.svg
+        alt: Heinergy Stromcommunity
       - title: "eAuto"
         year: "Juni 2023"
         desc: "Wir haben zuviel Strom. Kurzerhand soll ein Elektro Auto in Form eines FIAT 500 Elektro dieses Problem mildern."
