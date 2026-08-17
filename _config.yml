@@ -63,3 +63,4 @@ markdown: kramdown
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-target-blank
