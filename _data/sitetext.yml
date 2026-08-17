@@ -111,7 +111,7 @@ de: &DEFAULT_DE
       - title: "Abschluss Diplom Elekroingenieur"
         year: "1993"
         desc: "Erfolgreich das Studium der Elektrotechnik an der Technischen Hochschule (heute Technische Universität) in Darmstadt abgeschlossen"
-        image: assets/img/timeline/tu_logo_web.svgg
+        image: assets/img/timeline/tu_logo.png
         alt:
         # you can enforce the alignment
 #        align: right
