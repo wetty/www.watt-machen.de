@@ -56,12 +56,12 @@ de: &DEFAULT_DE
       - title: "Energiegenossenschaft Groß-Umstadt"
         year: "Juni 2026"
         desc: "Mitglied der [Energiegenossenschaft Groß-Umstadt](https://eg-gross-umstadt.de/)"
-        image: assets/img/timeline/logo_egu.png
+        image: assets/img/timeline/logo-egu.png
         alt: Energiegenossenschaft Groß-Umstadt
       - title: "Heinergy Stromcommunity"
         year: "April 2026"
         desc: "Unsere PV liefert nun Strom an die [Heinergy Stromcommunity](https://www.heinergy.de/)"
-        image: assets/img/timeline/heinergy_logo.jpg
+        image: assets/img/timeline/heinergy_logo.png
         alt: Heinergy Stromcommunity
 #      - title: "eAuto"
 #        year: "Juni 2023"
