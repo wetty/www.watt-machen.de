@@ -47,8 +47,8 @@ de: &DEFAULT_DE
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Was bisher geschah"
+    text: "Ein kleiner Auszug aus meinen Tätigkeiten"
     section: timeline
     # left is the default
     #start_align: "left"
