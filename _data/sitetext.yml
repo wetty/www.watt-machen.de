@@ -54,13 +54,13 @@ de: &DEFAULT_DE
     #start_align: "left"
     events:
       - title: "Energiegenossenschaft Groß-Umstadt"
-        year: "06. Juni 2026"
+        year: "Juni 2026"
         desc: "Mitglied der [Energiegenossenschaft Groß-Umstadt](https://eg-gross-umstadt.de/)"
         image: assets/img/timeline/logo_egu.jpg
         alt: Energiegenossenschaft Groß-Umstadt
       - title: "Heinergy Stromcommunity"
-        year: "01. April 2026"
-        desc: "UNsere PV liefert nun Strom für an die [Heinergy Stromcommunity](https://www.heinergy.de/)"
+        year: "April 2026"
+        desc: "Unsere PV liefert nun Strom an die [Heinergy Stromcommunity](https://www.heinergy.de/)"
         image: assets/img/timeline/heinergy_logo.svg
         alt: Heinergy Stromcommunity
       - title: "eAuto"
@@ -109,7 +109,7 @@ de: &DEFAULT_DE
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
-        align: right
+#        align: right
     end: "Werden Sie <br> Teil der <br> Story!"
 
   about:
