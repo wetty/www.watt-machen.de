@@ -63,40 +63,45 @@ de: &DEFAULT_DE
         desc: "Unsere PV liefert nun Strom an die [Heinergy Stromcommunity](https://www.heinergy.de/)"
         image: assets/img/timeline/heinergy_logo.svg
         alt: Heinergy Stromcommunity
-      - title: "eAuto"
-        year: "Juni 2023"
-        desc: "Wir haben zuviel Strom. Kurzerhand soll ein Elektro Auto in Form eines FIAT 500 Elektro dieses Problem mildern."
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Speicher sind gefragt"
+#      - title: "eAuto"
+#        year: "Juni 2023"
+#        desc: "Wir haben zuviel Strom. Kurzerhand soll ein Elektro Auto in Form eines FIAT 500 Elektro dieses Problem mildern."
+#        image: assets/img/timeline/1.jpg
+#        alt:
+#      - title: "Speicher sind gefragt"
+#        year: "2023"
+#        desc: "Der erste Speicher im Auftrag wird gebaut. In diesem Rahmen wird unser eigener Speicher von 14,4 kWh auf 34 kWh erweitert."
+#        image: assets/img/timeline/1.jpg
+#        alt:
+#      - title: "Ein Speicher muß her"
+#        year: "Dezember 2022"
+#        desc: "Unsere PV deckt unseren Bedarf nur mit maximal 50%. Der erste Strom Speicher mit 14,4 kWh wird gebaut."
+#        image: assets/img/timeline/1.jpg
+#        alt:
+      - title: "Stromspeicher"
         year: "2023"
-        desc: "Der erste Speicher im Auftrag wird gebaut. In diesem Rahmen wird unser eigener Speicher von 14,4 kWh auf 34 kWh erweitert."
+        desc: "Der erste Strom Speicher werden konzipiert und in Betrieb genommen."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Ein Speicher muß her"
-        year: "Dezember 2022"
-        desc: "Unsere PV deckt unseren Bedarf nur mit maximal 50%. Der erste Strom Speicher mit 14,4 kWh wird gebaut."
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Unsere PV ist da"
+      - title: "Eigene PV "
         year: "August 2022"
-        desc: "Nachdem erst unser Dach saniert wurde kommt endlich unsere Photovoltaik Anlage mit 19,125 kWp"
+        desc: "Nachdem unser Dach saniert war kam endlich unsere Photovoltaik Anlage mit 19,125 kWp"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Atlantiküberquerung"
-        year: "2016"
-        desc: "Vier Wochen Auszeit um den Atlantik mit einer Segelyacht von den Kap-Verden bis Barbados zu überqueren"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "Fotos aus der Box"
-        year: "2015"
-        desc: "Nach überwältigendem Erfolg mit einer selbst gebauten FotoBox beginne ich diese zu vermieten https://www.fotos-aus-der-box.de"
-        image: assets/img/timeline/1.jpg
-        alt:
+#      - title: "Atlantiküberquerung"
+#        year: "2016"
+#        desc: "Vier Wochen Auszeit um den Atlantik mit einer Segelyacht von den Kap-Verden bis Barbados zu überqueren"
+#        image: assets/img/timeline/1.jpg
+#        alt:
+#      - title: "Fotos aus der Box"
+#        year: "2015"
+#        desc: "Nach überwältigendem Erfolg mit einer selbst gebauten FotoBox beginne ich diese zu vermieten https://www.fotos-aus-der-box.de"
+#        image: assets/img/timeline/1.jpg
+#        alt:
       - title: "Eigenes Ingenieur Büro"
         year: "seit 2005"
-        desc: "Nach 10 Jahren als Angestellter mache ich mich mit einem eigenen Ingenieur Büro im Bereich Softwareentwicklung selbstständig"
-        image: assets/img/timeline/2.jpg
+        desc: "Nach 10 Jahren als Angestellter mache ich mich mit einem eigenen Ingenieur Büro im Bereich Softwareentwicklung und IT-Services selbstständig"
+        image: assets/img/timeline/logo-ing-buero.png
         alt:
       - title: "Software Entwickler, Abteilungsleiter, Director Technology"
         year: "bis 2005"
@@ -106,7 +111,7 @@ de: &DEFAULT_DE
       - title: "Abschluss Diplom Elekroingenieur"
         year: "1993"
         desc: "Erfolgreich das Studium der Elektrotechnik an der Technischen Hochschule (heute Technische Universität) in Darmstadt abgeschlossen"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/tu_logo_web.svgg
         alt:
         # you can enforce the alignment
 #        align: right
