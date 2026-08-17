@@ -55,12 +55,12 @@ de: &DEFAULT_DE
     events:
       - title: "Energiegenossenschaft Groß-Umstadt"
         year: "Juni 2026"
-        desc: "Mitglied der [Energiegenossenschaft Groß-Umstadt](https://eg-gross-umstadt.de/)"
+        desc: "Mitglied der [Energiegenossenschaft Groß-Umstadt](https://eg-gross-umstadt.de/){:target="_blank"}"
         image: assets/img/timeline/logo-egu.png
         alt: Energiegenossenschaft Groß-Umstadt
       - title: "Heinergy Stromcommunity"
         year: "April 2026"
-        desc: "Unsere PV liefert nun Strom an die [Heinergy Stromcommunity](https://www.heinergy.de/)"
+        desc: "Unsere PV liefert nun Strom an die [Heinergy Stromcommunity](https://www.heinergy.de/){:target="_blank"}"
         image: assets/img/timeline/heinergy_logo.png
         alt: Heinergy Stromcommunity
 #      - title: "eAuto"
@@ -110,7 +110,7 @@ de: &DEFAULT_DE
         alt: image alt text
       - title: "Abschluss Diplom Elekroingenieur"
         year: "1993"
-        desc: "Erfolgreich das Studium der Elektrotechnik an der Technischen Hochschule Darmstadt abgeschlossen. Heute [TU Darmstadt](https://www.tu-darmstadt.de/)"
+        desc: "Erfolgreich das Studium der Elektrotechnik an der Technischen Hochschule Darmstadt abgeschlossen. Heute [TU Darmstadt](https://www.tu-darmstadt.de/){:target="_blank"}"
         image: assets/img/timeline/logo-dipl-ing.png
         alt:
         # you can enforce the alignment
