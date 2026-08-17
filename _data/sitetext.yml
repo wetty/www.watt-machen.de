@@ -38,7 +38,7 @@ de: &DEFAULT_DE
         icon: fas fa-bolt     
       - title: "Home Assistant"
         desc: "Machen Sie Ihr Haus smarter, damit es dann Strom verbraucht, wenn Ihre PV ihn liefert"
-        icon: fas fa-house
+        icon: fas fa-home
   
   portfolio:
     title: "Portfolio"
