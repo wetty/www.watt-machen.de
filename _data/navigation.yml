@@ -12,11 +12,11 @@
 de: &DEFAULT_DE
   nav:
     - title: "Leistungen"
-      section: leistungen
+      section: services
 #    - title: "Portfolio"
 #      section: portfolio
-#    - title: "About"
-#      section: about
+    - title: "About"
+      section: about
     - title: "Timeline"
       section: timeline
 #    - title: "Team"
