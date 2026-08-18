@@ -22,7 +22,7 @@ email      : thomas@wetterer.de #this is also the email contact forms will go to
 description: "Beratung durch einen unabhängigen Elektroingenieur"
 author     : Thomas Wetterer
 logo:     #optional, defaults to site title
- path: assets\img\clients\watt-machen.svg
+ path: assets\img\clients\watt-machen-logo-only.png
  height: 80 #height in px, defaults to 52px
 
 locale: "de-DE" # See available languages in _data/sitetext.yml
