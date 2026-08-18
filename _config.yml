@@ -27,22 +27,18 @@ logo:     #optional, defaults to site title
 
 locale: "de-DE" # See available languages in _data/sitetext.yml
 
-formspree_form_path: "f/mwlenwna"
-
-# permalink: pretty
-# permalink: /:title
 
 include:
   - .htaccess
   - _pages
 
-defaults:
-  - scope:
-      path: ""
-      type: "pages" 
-    values:
-      layout: page # overrides previous default layout
-#      permalink: /:basename/
+#defaults:
+#  - scope:
+#      path: ""
+#      type: "pages" 
+#    values:
+#      layout: page # overrides previous default layout
+##      permalink: /:basename/
 
 analytics:
   google: #Google Analytics tracking code here
@@ -60,6 +56,7 @@ markdown: kramdown
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
+#formspree_form_path: "f/mwlenwna"
 
 plugins:
   - jekyll-remote-theme
