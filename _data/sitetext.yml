@@ -179,7 +179,7 @@ de: &DEFAULT_DE
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Kontaktieren Sie uns"
+    title: Kontaktieren Sie uns
     text: "thomas@wetterer.de oder 0163 8493889"
     section: contact
     name: "Name*"
