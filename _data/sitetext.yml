@@ -142,21 +142,21 @@ de: &DEFAULT_DE
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "DER MACHER"
+    text: "Der richtige Ansprechpartner für alle Belange."
+    subtext: Selbständiger Dipl. Ingenieur für Elektrotechnik mit über 30 Jahren Berufserfahrung. 
     section: team
     people:
-      - name: "Thomas Wetterer"
-        role: "Einer für alles"
+      - name: "Dipl.-Ing. TU Thomas Wetterer"
+        role: "Berater PV, Softwareentwickler, IT'ler"
         image: assets/img/team/dipl-ing-thomas-wetterer.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+#        social:
+#          - url: https://twitter.com
+#            icon: fab fa-twitter
+#          - url: https://facebook.com
+#            icon: fab fa-facebook-f
+#          - url: https://linkedin.com
+#            icon: fab fa-linkedin-in
 
   contact:
     title: Kontaktieren Sie uns
