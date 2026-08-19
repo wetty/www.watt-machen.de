@@ -17,9 +17,9 @@ de: &DEFAULT_DE
     buttonlink: "#services"
 
   services:
-    title: "Leistungen"
-    text: "Als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei folgenden Fragen unterstützen. Unabhängige Ingenieurberatung für PV, Speicher, E-Mobilität & Smart Home – herstellerneutral, fundiert und auf Ihr Gebäude maßgeschneidert."
-    section: leistungen
+    title: "Watt geht?"
+    text: "Watt machen, Watt speichern, Watt vermarkten und Watt sparen.<br />Wenn wir ehrlich sind geht es doch darum etwas zu sparen. Was eignet sich da besser als seinen eigenen Strom zu machen und diesen entsprechend optimal zu nutzen. Also das Elektro Auto eben genau dann zu laden, wenn die PV gerade Überschuss produziert und ins Netz einspeist. Oder Geräte wie Spül- oder Waschmaschine dann laufen zu lassen wenn ein zeitbasierter Stromtarif gerade sehr günstig ist.<br/>Als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei allen Themen rund um PV, Speicher, E-Mobilität & Smart Home beraten. Fundiert, herstellerneutralrt und auf Ihr Gebäude maßgeschneidert zugeschnitten."
+    section: services
     list:
       - title: "Stromspeicher"
         desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
@@ -147,7 +147,7 @@ de: &DEFAULT_DE
     subtext: Selbständiger Dipl. Ingenieur für Elektrotechnik mit über 30 Jahren Berufserfahrung. 
     section: team
     people:
-      - name: "Dipl.-Ing. TU Thomas Wetterer"
+      - name: "Thomas Wetterer"
         role: "Berater PV, Softwareentwickler, IT'ler"
         image: assets/img/team/dipl-ing-thomas-wetterer.jpg
 #        social:
