@@ -149,7 +149,7 @@ de: &DEFAULT_DE
     people:
       - name: "Thomas Wetterer"
         role: "Einer für alles"
-        image: assets/img/team/thomas-wetterer.jpg
+        image: assets/img/team/dipl-ing-thomas-wetterer.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
