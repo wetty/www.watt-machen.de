@@ -20,8 +20,6 @@ Nach etwas Corona bedingter Verspätung ging es im Juli 2022 dann ans Dach und d
 
 
 
-
-
 {:.list-inline}
 - Datum: August 2022
 - Kunde: Eigene

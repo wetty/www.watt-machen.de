@@ -4,6 +4,7 @@ source "https://rubygems.org"
 # gem "jekyll-agency"
 gem "jekyll-remote-theme"
 # gem 'jekyll-target-blank'
+gem 'jemoji'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"

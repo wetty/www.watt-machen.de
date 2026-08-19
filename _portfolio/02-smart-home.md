@@ -1,13 +1,13 @@
 ---
-title: Speicher Rentabilität
-subtitle: Ab wann lohnt sich ein Stromspeicher
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Smart Home
+subtitle: Das smarte Haus erledigt alles
+image: assets/img/portfolio/smart-home_400-300.png
+alt: Smart Home
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Smart Home
+  subtitle: Erledigt Aufgaben ganz von selbst
+  thumbnail: assets/img/portfolio/smart-home_400-300.png
 ---
 Je nachdem wem man glaubt gehen die Meinungen was Stromspeicher betrifft von 'Braucht man unbediungt' bis hin zu 'Stromspeicher sind nur reines Hobby'
 

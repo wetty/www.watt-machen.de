@@ -18,49 +18,52 @@ de: &DEFAULT_DE
 
   services:
     title: "Watt geht?"
-    text: "Wenn wir ehrlich sind geht es doch darum etwas zu sparen. Was eignet sich da besser als seinen eigenen Strom zu machen und diesen entsprechend optimal zu nutzen. Also das Elektro Auto eben genau dann zu laden, wenn die PV gerade Überschuss produziert und ins Netz einspeist. Oder Geräte wie Spül- oder Waschmaschine dann laufen zu lassen wenn ein zeitbasierter Stromtarif gerade sehr günstig ist.<br/>Als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei allen Themen rund um PV, Speicher, E-Mobilität & Smart Home beraten. Fundiert, herstellerneutralrt und auf Ihr Gebäude maßgeschneidert zugeschnitten."
+    text: "Wenn wir ehrlich sind geht es doch darum, etwas zu sparen. <br /><br /> Was eignet sich da besser als seinen eigenen Strom zu machen und diesen entsprechend optimal zu nutzen. Also wenn die PV gerade Überschuss produziert z.B. das Elektro Auto genau dann zu laden. Überschüssigen Strom zu speichern, um ihn in der Nacht sekbst zu nutzen. <br /><br /> Oder Geräte wie Spül- oder Waschmaschine dann laufen zu lassen wenn ein zeitbasierter Stromtarif gerade sehr günstig ist. Auch wenn das mitten in der Nacht ist.<br /><br />Zu kompliziert? Nein, als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei allen diesen Themen rund um PV, Speicher, E-Mobilität & Smart Home beraten. Fundiert, herstellerneutralt und auf Ihre Wünsche maßgeschneidert zugeschnitten."
     section: services
     list:
       - title: "Watt machen"
-        desc: "PV, Balkonkraftwerk oder eine bestehende Anlage erweitern."
-        icon: fas fa-car-battery #find more at https://fontawesome.com/icons
-      - title: "Watt speichernr"
-        desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
-        icon: fas fa-car-battery #find more at https://fontawesome.com/icons
-      - title: "Watt vermarkten"
-        desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
+        desc: "Vom Balkonkraftwerk über eine PV Erweiterung bis zur kompletten Anlage. Ich kann Ihnen dazu Ihre Fragen beantworten."
+        icon: fas fa-solar-panel #find more at https://fontawesome.com/icons
+      - title: "Watt speichern"
+        desc: "Günstige Strom Speicher Systeme für **alle** PV Anlagen! Auch wenn Ihr Elektriker oder Solateur sagt es wäre zu teuer oder kompliziert. Selbst Speicher ohne PV können sich mit dynamischen Strompreisen lohnen."
         icon: fas fa-car-battery #find more at https://fontawesome.com/icons
       - title: "Watt sparen"
-        desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
-        icon: fas fa-car-battery #find more at https://fontawesome.com/icons
-      - title: "Smart Home"
-        desc: "Sie wollen Ihren Strom dann verbrauchen, wenn er vorhanden ist? Smart Home Beratung und individuelle Smart Home Lösungen"
-        icon: fas fa-home
+        desc: "Nutzen Sie Ihren eigenen Strom optimal. Dank Smart Home oder **HEMS** (Home Energy Management System) geht nichts von Ihrem Strom verloren und verringern den Netzbezug"
+        icon: fas fa-euro-sign #find more at https://fontawesome.com/icons
+      - title: "Watt vermarkten"
+        desc: "Nach der aktuellen/zukünftigen Gesetzeslage wird die garantierte Einspeisevergütung für eingespeisten Strom immer weniger bzw. fällt ganz weg. Stromcommunities oder Direktvermarktung an der Börse können hier helfen."
+        icon: fas fa-plus #find more at https://fontawesome.com/icons
+      - title: "Watt laden"
+        desc: "Ihre Wallbox lädt immer mit voller Leistung, oder zieht sogar Ihren Stromspeicher leer? Sehr viele Wallboxen lassen sich komfortabel mot evcc steuern und laden damit nur noch den überschüssigen Strom."
+        icon: fas fa-charging-station
       - title: "Watt nicht"
         desc: "Ich bin leider kein eingetragener Elektroinstallateur. Damit kann ich kein Elektroinstallationen durchführen! Ich sprechen aber gerne mit Ihrem Elektriker und stimme die notwendigen Massnahmen mit Ihm ab."
         icon: fas fa-ghost
-      - title: "Wallbox"
-        desc: "Ihre Wallbox ist nicht smart genug"
-        icon: fas fa-charging-station
-      - title: "evcc"
-        desc: "Echtes überschuss laden auch mit Ihrer aktuellen Wallbox"
-        icon: fas fa-bolt     
-      - title: "Home Assistant"
-        desc: "Machen Sie Ihr Haus smarter, damit es dann Strom verbraucht, wenn Ihre PV ihn liefert"
-        icon: fas fa-home
+#      - title: "Smart Home"
+#        desc: "Sie wollen Ihren Strom dann verbrauchen, wenn er vorhanden ist? Smart Home Beratung und individuelle Smart Home Lösungen"
+#        icon: fas fa-home
+#      - title: "Wallbox"
+#        desc: "Ihre Wallbox ist nicht smart genug"
+#        icon: fas fa-charging-station
+#      - title: "evcc"
+#        desc: "Echtes überschuss laden auch mit Ihrer aktuellen Wallbox"
+#        icon: fas fa-bolt     
+#      - title: "Home Assistant"
+#        desc: "Machen Sie Ihr Haus smarter, damit es dann Strom verbraucht, wenn Ihre PV ihn liefert"
+#        icon: fas fa-home
 #      - title: "Geheimnis"
 #        desc: "Sie wissen nicht ob man Ihre Frage überhaupt beantworten kann? Stellen Sie mich auf die Probe"
 #        icon: fas fa-ghost
   
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Eine Übersicht über einige Projekte. Mehr zu lesen gibt es jeweils wenn Sie auf die Bilder klicken."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Seite schliessen"
 
   timeline:
-    title: "Was bisher geschah"
-    text: "Ein kleiner Auszug aus meinen Tätigkeiten"
+    title: "Watt bisher geschah"
+    text: "Einige Stationen der letzten Jahrzehnte."
     section: timeline
     # left is the default
     #start_align: "left"
@@ -130,32 +133,32 @@ de: &DEFAULT_DE
     end: "Werden Sie <br> Teil der <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Über mich"
+    text: "Die Story warum alles so gekommen ist, wie es ist."
+    body: "In der Schule schon mit der Märlin Eisenbahn gespielt. Dann mit dem Kosmos Elektronik Baukasten den Radio und die Lichtorgel gebaut. <br /><br /> Nachdem dann die ersten **programierbaren** Geräte in die Haushalte einzogen, war Bedarf nach jemand der das kann. So kamen Verwandte, Bekannte und Nachbarn ob ich nicht mal den Videorekorder, das Telefon oder ganz neumodisch das Modem programmieren könnte. <br /><br /> Damit lag nichts näher als an der Technischen Hochschule Darmstadt Elektrotechnik zu studieren. <br /><br /> Nach ein paar Jahrzehnten haben sich mehr oder weniger nur die Geräte geändert. Nun sollen Photovoltaik Anlagen geplant werden, Speicher ergänzt werden, Wallboxen programmiert werden oder umfangreich das Haus oder die Wohnung per Smart Home aufgerüstet werden. <br /> <br /> **Kein Problem!**"
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+#  clients:
+#    section: clients
+#    max-height: 100px
+#    horizontal-scrolling: "" #"yes/no"
+#    list:
+#      - title: "envato"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/envato.jpg
+#      - title: "designmodo"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/designmodo.jpg
+#      - title: "themeforest"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/themeforest.jpg
+#      - title: "Creative Market"
+#        url: https://github.com/raviriley/agency-jekyll-theme
+#        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Wer macht Watt?"
-    text: "Der richtige Ansprechpartner für alle Belange."
+    text: "Macht nicht nur viele kilo Watt Stunden Strom mit der mehr als 19 kilo Watt Peak grossen Photovoltaik Anlage, sondern geht auch selbst ans Telefon oder ruft umgehend zurück und beantwortet Ihre eMail Anfragen. <br /><br />Meistens erschreckend schnell und alles ohne Warteschlange oder KI Anrufbeantworter."
     subtext: Selbständiger Dipl. Ingenieur für Elektrotechnik mit über 30 Jahren Berufserfahrung. 
     section: team
     people:
@@ -172,30 +175,30 @@ de: &DEFAULT_DE
 
   contact:
     title: Kontaktieren Sie uns
-    text: "thomas@wetterer.de oder 0163 8493889"
+    text: "Telefon: 0163 8493889</br>eMail: thomas@wetterer.de"
     section: contact
     name: "Name*"
-    name-validation: "Please enter your name."
+    name-validation: "Geben Sie Ihren Namen ein."
     email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Telefon Nummer"
-    phone-validation: "Please enter your phone number."
+    email-validation: "Geben Sie Ihre eMail Adresse ein."
+    phone: "Telefon*"
+    phone-validation: "Geben Sie Ihre Telefonnummer ein."
     message: "Nachricht*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
+    message-validation: "Geben Sie eine Nachricht ein."
+    subject: "Watt machen Kontakt Form"
     submit: "Nachricht senden"
 
   footer:
     legal: "Datenschutz"
-#    social:
+    social:
 #      - url: https://twitter.com
 #        icon: "fab fa-twitter"
 #      - url: https://facebook.com
 #        icon: "fab fa-facebook-f"
 #      - url: https://linkedin.com
 #        icon: "fab fa-linkedin-in"
-#      - url: https://github.com/raviriley/agency-jekyll-theme
-#        icon: "fab fa-github"
+      - url: https://github.com/wetty
+        icon: "fab fa-github"
 #      - url: https://instagram.com
 #        icon: "fab fa-instagram"
 de-DE:
