@@ -28,13 +28,13 @@ de: &DEFAULT_DE
         desc: "Günstige Strom Speicher Systeme für **alle** PV Anlagen! Auch wenn Ihr Elektriker oder Solateur sagt es wäre zu teuer oder kompliziert. Selbst Speicher ohne PV können sich mit dynamischen Strompreisen lohnen."
         icon: fas fa-car-battery #find more at https://fontawesome.com/icons
       - title: "Watt sparen"
-        desc: "Nutzen Sie Ihren eigenen Strom optimal. Dank Smart Home oder **HEMS** (Home Energy Management System) geht nichts von Ihrem Strom verloren und verringern den Netzbezug"
+        desc: "Nutzen Sie Ihren eigenen Strom optimal. Dank Smart Home oder **HEMS** (Home Energy Management System) geht nichts von Ihrem Strom verloren und Sie verringern Ihren Netzbezug"
         icon: fas fa-euro-sign #find more at https://fontawesome.com/icons
       - title: "Watt vermarkten"
         desc: "Nach der aktuellen/zukünftigen Gesetzeslage wird die garantierte Einspeisevergütung für eingespeisten Strom immer weniger bzw. fällt ganz weg. Stromcommunities oder Direktvermarktung an der Börse können hier helfen."
         icon: fas fa-plus #find more at https://fontawesome.com/icons
       - title: "Watt laden"
-        desc: "Ihre Wallbox lädt immer mit voller Leistung, oder zieht sogar Ihren Stromspeicher leer? Sehr viele Wallboxen lassen sich komfortabel mot evcc steuern und laden damit nur noch den überschüssigen Strom."
+        desc: "Ihre Wallbox lädt immer mit voller Leistung, oder zieht sogar Ihren Stromspeicher leer? Sehr viele Wallboxen lassen sich komfortabel mit evcc steuern. Damit machen sie echtes Überschuss laden."
         icon: fas fa-charging-station
       - title: "Watt nicht"
         desc: "Ich bin leider kein eingetragener Elektroinstallateur. Damit kann ich kein Elektroinstallationen durchführen! Ich sprechen aber gerne mit Ihrem Elektriker und stimme die notwendigen Massnahmen mit Ihm ab."
