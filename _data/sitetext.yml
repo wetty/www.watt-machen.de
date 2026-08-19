@@ -21,7 +21,16 @@ de: &DEFAULT_DE
     text: "Wenn wir ehrlich sind geht es doch darum etwas zu sparen. Was eignet sich da besser als seinen eigenen Strom zu machen und diesen entsprechend optimal zu nutzen. Also das Elektro Auto eben genau dann zu laden, wenn die PV gerade Überschuss produziert und ins Netz einspeist. Oder Geräte wie Spül- oder Waschmaschine dann laufen zu lassen wenn ein zeitbasierter Stromtarif gerade sehr günstig ist.<br/>Als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei allen Themen rund um PV, Speicher, E-Mobilität & Smart Home beraten. Fundiert, herstellerneutralrt und auf Ihr Gebäude maßgeschneidert zugeschnitten."
     section: services
     list:
-      - title: "Stromspeicher"
+      - title: "Watt machen"
+        desc: "PV, Balkonkraftwerk oder eine bestehende Anlage erweitern."
+        icon: fas fa-car-battery #find more at https://fontawesome.com/icons
+      - title: "Watt speichernr"
+        desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
+        icon: fas fa-car-battery #find more at https://fontawesome.com/icons
+      - title: "Watt vermarkten"
+        desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
+        icon: fas fa-car-battery #find more at https://fontawesome.com/icons
+      - title: "Watt sparen"
         desc: "Sie möchten Ihren am Tag erzeugen Photovoltaik Strom auch Nachts nutzen? Beratung und bau individuelle und kostengünstiger Stromspeicher für **alle** PV Anlagen."
         icon: fas fa-car-battery #find more at https://fontawesome.com/icons
       - title: "Smart Home"
