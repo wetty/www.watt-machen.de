@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Photovoltaik, Strom Speicher, Elektro Mobilität, Smart Home | Watt machen
 email      : thomas@wetterer.de #this is also the email contact forms will go to
-description: "Machen Sie Ihren Strom selbst! Unabhängige Beratung und Planung von Photovoltaik, Strom Speicher, Elektro Mobilität, Smart Home und Direktvermarktung durch erfahrenen Dipl.-Ing. der Elektrotechnik"
+description: "Watt machen! Unabhängige Beratung und Planung von Photovoltaik, Strom Speicher, Elektro Mobilität, Smart Home und Direktvermarktung durch erfahrenen Dipl.-Ing. der Elektrotechnik"
 author     : Thomas Wetterer
 logo:     #optional, defaults to site title
  path: assets\img\clients\watt-machen-logo-schrift.png
