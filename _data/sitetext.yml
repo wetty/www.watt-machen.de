@@ -18,7 +18,7 @@ de: &DEFAULT_DE
 
   services:
     title: "Watt geht?"
-    text: "Wenn wir ehrlich sind geht es doch darum, etwas zu sparen. <br /><br /> Was eignet sich da besser als seinen eigenen Strom zu machen und diesen entsprechend optimal zu nutzen. Also wenn die PV gerade Überschuss produziert z.B. das Elektro Auto genau dann zu laden. Überschüssigen Strom zu speichern, um ihn in der Nacht sekbst zu nutzen. <br /><br /> Oder Geräte wie Spül- oder Waschmaschine dann laufen zu lassen wenn ein zeitbasierter Stromtarif gerade sehr günstig ist. Auch wenn das mitten in der Nacht ist.<br /><br />Zu kompliziert? Nein, als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei allen diesen Themen rund um PV, Speicher, E-Mobilität & Smart Home beraten. Fundiert, herstellerneutralt und auf Ihre Wünsche maßgeschneidert zugeschnitten."
+    text: "Wenn wir ehrlich sind geht es doch darum, etwas zu sparen. <br /><br /> Was eignet sich da besser als seinen eigenen Strom zu machen und diesen entsprechend optimal zu nutzen. Also wenn die PV gerade Überschuss produziert z.B. das Elektro Auto genau dann zu laden. Überschüssigen Strom zu speichern, um ihn in der Nacht selbst zu nutzen. <br /><br /> Oder Geräte wie Spül- oder Waschmaschine dann laufen zu lassen, wenn ein zeitbasierter Stromtarif gerade sehr günstig ist. Auch wenn das mitten in der Nacht ist.<br /><br />Zu kompliziert? Nein, als Diplom Elektroingenieur mit über 30 Jahren Erfahrung, kann ich Sie bei allen diesen Themen rund um PV, Speicher, E-Mobilität & Smart Home beraten. Fundiert, herstellerneutral und auf Ihre Wünsche maßgeschneidert zugeschnitten."
     section: services
     list:
       - title: "Watt machen"
@@ -135,7 +135,7 @@ de: &DEFAULT_DE
   about:
     title: "Über mich"
     text: "Die Story warum alles so gekommen ist, wie es ist."
-    body: "In der Schule schon mit der Märlin Eisenbahn gespielt. Dann mit dem Kosmos Elektronik Baukasten den Radio und die Lichtorgel gebaut. <br /><br /> Nachdem dann die ersten **programierbaren** Geräte in die Haushalte einzogen, war Bedarf nach jemand der das kann. So kamen Verwandte, Bekannte und Nachbarn ob ich nicht mal den Videorekorder, das Telefon oder ganz neumodisch das Modem programmieren könnte. <br /><br /> Damit lag nichts näher als an der Technischen Hochschule Darmstadt Elektrotechnik zu studieren. <br /><br /> Nach ein paar Jahrzehnten haben sich mehr oder weniger nur die Geräte geändert. Nun sollen Photovoltaik Anlagen geplant werden, Speicher ergänzt werden, Wallboxen programmiert werden oder umfangreich das Haus oder die Wohnung per Smart Home aufgerüstet werden. <br /> <br /> **Kein Problem!**"
+    body: "In der Schule schon mit der Märklin Eisenbahn gespielt. Dann mit dem Kosmos Elektronik Baukasten den Radio und die Lichtorgel gebaut. <br /><br /> Nachdem dann die ersten **programmierbaren** Geräte in die Haushalte einzogen, war Bedarf nach jemand der das kann. So kamen Verwandte, Bekannte und Nachbarn ob ich nicht mal den Videorekorder, das Telefon oder ganz neumodisch das Modem programmieren könnte. <br /><br /> Damit lag nichts näher als an der Technischen Hochschule Darmstadt Elektrotechnik zu studieren. <br /><br /> Nach ein paar Jahrzehnten haben sich mehr oder weniger nur die Geräte geändert. Nun sollen Photovoltaik Anlagen geplant werden, Speicher ergänzt werden, Wallboxen programmiert werden oder umfangreich das Haus oder die Wohnung per Smart Home aufgerüstet werden. <br /> <br /> **Kein Problem!**"
     section: about
 
 #  clients:
