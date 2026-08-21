@@ -61,5 +61,6 @@ formspree_form_path: "f/mwlenwna"
 plugins:
   - jekyll-remote-theme
   - jemoji
+  - jekyll-sitemap
 
 #  - jekyll-target-blank
