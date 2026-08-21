@@ -27,5 +27,3 @@ Aber es gibt natürlich noch mehr Möglichkeiten. So läßt sich die Stromtarif 
 Für evcc brauchen Sie nur einen kleinen Server (größe einer Zigarettenpackung), auf dem die Software rund um die Uhr läuft. 
 
 Keine Angst, ich liefere Ihnen alles fertig eingerichtet zum ausprobieren.
-
-[Mehr Info](#p1)
