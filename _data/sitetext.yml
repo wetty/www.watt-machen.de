@@ -40,7 +40,7 @@ de: &DEFAULT_DE
         desc: "Nach der aktuellen/zukünftigen Gesetzeslage wird die garantierte Einspeisevergütung für eingespeisten Strom immer weniger bzw. fällt ganz weg. Stromcommunities oder Direktvermarktung an der Börse können hier helfen."
         icon: fas fa-plus #find more at https://fontawesome.com/icons
       - title: "Watt laden"
-        desc: "Ihre Wallbox lädt immer mit voller Leistung, oder zieht sogar Ihren Stromspeicher leer? Sehr viele Wallboxen lassen sich komfortabel mit evcc steuern. Damit machen sie echtes Überschuss laden. <br />[Mehr Info](#p1)"
+        desc: "Ihre Wallbox lädt immer mit voller Leistung, oder zieht sogar Ihren Stromspeicher leer? Sehr viele Wallboxen lassen sich komfortabel mit evcc steuern. Damit machen sie echtes Überschuss laden."
         icon: fas fa-charging-station
       - title: "Watt nicht"
         desc: "Ich bin leider kein eingetragener Elektroinstallateur. Damit kann ich kein Elektroinstallationen durchführen! Ich sprechen aber gerne mit Ihrem Elektriker und stimme die notwendigen Massnahmen mit Ihm ab."
