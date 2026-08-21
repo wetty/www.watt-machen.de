@@ -17,9 +17,9 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Watt machen
+title      : Photovoltaik, Strom Speicher, Elektro Mobilität, Smart Home | Watt machen
 email      : thomas@wetterer.de #this is also the email contact forms will go to
-description: "Beratung durch einen unabhängigen Elektroingenieur"
+description: "Machen Sie Ihren Strom selbst! Unabhängige Beratung und Planung von Photovoltaik, Strom Speicher, Elektro Mobilität, Smart Home und Direktvermarktung durch erfahrenen Dipl.-Ing. der Elektrotechnik"
 author     : Thomas Wetterer
 logo:     #optional, defaults to site title
  path: assets\img\clients\watt-machen-logo-schrift.png
