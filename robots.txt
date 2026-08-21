@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /robots.txt
+---
+User-agent: *
+Allow: /
+Disallow: /assets/js/
+Disallow: /assets/css/
+
+# Schutz vor KI-Scrapern (optional, aber empfohlen)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://watt-machen.de/sitemap.xml
