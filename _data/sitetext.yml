@@ -43,7 +43,7 @@ de: &DEFAULT_DE
         desc: "Ihre Wallbox lädt immer mit voller Leistung, oder zieht sogar Ihren Stromspeicher leer? Sehr viele Wallboxen lassen sich komfortabel mit evcc steuern. Damit machen sie echtes Überschuss laden."
         icon: fas fa-charging-station
       - title: "Watt nicht"
-        desc: "Ich bin leider kein eingetragener Elektroinstallateur. Damit kann ich kein Elektroinstallationen durchführen! Ich sprechen aber gerne mit Ihrem Elektriker und stimme die notwendigen Massnahmen mit Ihm ab."
+        desc: "Ich bin leider kein eingetragener Elektroinstallateur. Damit kann ich kein Elektroinstallationen durchführen! Ich sprechen aber gerne mit Ihrem Elektriker und stimme die notwendigen Maßnahmen mit Ihm ab."
         icon: fas fa-ghost
 #      - title: "Smart Home"
 #        desc: "Sie wollen Ihren Strom dann verbrauchen, wenn er vorhanden ist? Smart Home Beratung und individuelle Smart Home Lösungen"
@@ -65,7 +65,7 @@ de: &DEFAULT_DE
     title: "Portfolio"
     text: "Eine Übersicht über einige Projekte. Mehr zu lesen gibt es jeweils wenn Sie auf die Bilder klicken."
     section: portfolio
-    closebutton: "Seite schliessen"
+    closebutton: "Seite schließen"
 
   timeline:
     title: "Watt bisher geschah"
@@ -164,7 +164,7 @@ de: &DEFAULT_DE
 
   team:
     title: "Wer macht Watt?"
-    text: "Macht nicht nur viele kilo Watt Stunden Strom mit der mehr als 19 kilo Watt Peak grossen Photovoltaik Anlage, sondern geht auch selbst ans Telefon oder ruft umgehend zurück und beantwortet Ihre eMail Anfragen. <br /><br />Meistens erschreckend schnell und alles ohne Warteschlange oder KI Anrufbeantworter."
+    text: "Macht nicht nur viele kilo Watt Stunden Strom mit der mehr als 19 kilo Watt Peak großen Photovoltaik Anlage, sondern geht auch selbst ans Telefon oder ruft umgehend zurück und beantwortet Ihre eMail Anfragen. <br /><br />Meistens erschreckend schnell und alles ohne Warteschlange oder KI Anrufbeantworter."
     subtext: Selbständiger Dipl. Ingenieur für Elektrotechnik mit über 30 Jahren Berufserfahrung. 
     section: team
     people:
