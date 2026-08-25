@@ -6,5 +6,5 @@
 #Image Customization
 # header-image: "../img/header-bg.jpg"
 #header-image: "../img/header1-bg.jpg"
-header-image: "https://imgproxy.wetterer.de/insecure/resize:auto:auto:0/format:webp/plain/https://watt-machen.de/img/header1-bg.jpg"
+header-image: "https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/img/header1-bg.jpg"
 contact-image: "../img/map-image.png"
