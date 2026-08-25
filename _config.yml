@@ -45,6 +45,9 @@ analytics:
 
 collections:
   portfolio:
+    output: true
+    permalink: /:collection/:path/
+    layout: page # overrides previous default layout
 
 exclude:
   - Gemfile

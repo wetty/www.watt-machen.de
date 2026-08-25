@@ -25,7 +25,7 @@ de: &DEFAULT_DE
         desc: "Vom Balkonkraftwerk über eine PV Erweiterung bis zur kompletten Anlage. Ich kann Ihnen dazu Ihre Fragen beantworten."
         icon: fas fa-solar-panel #find more at https://fontawesome.com/icons
       - title: "Watt speichern"
-        desc: "Günstige Strom Speicher Systeme für **alle** PV Anlagen! Auch wenn Ihr Elektriker oder Solateur sagt es wäre zu teuer oder kompliziert. Selbst Speicher ohne PV können sich mit dynamischen Strompreisen lohnen."
+        desc: "Günstige Strom Speicher Systeme für **alle** PV Anlagen! Auch wenn Ihr Elektriker oder Solateur sagt es wäre zu teuer oder kompliziert. Selbst Speicher ohne PV können sich mit dynamischen Strompreisen lohnen. [Mehr lesen](/portfolio/03-strom-speicher/)"
         icon: fas fa-car-battery #find more at https://fontawesome.com/icons
       - title: "Watt sparen"
         desc: "Mit § 14a des Energiewirtschaftsgesetzes (EnWG) jährlich rund 130.- sparen. Zusätzlich auch noch für Zeitbasierte Stromtarife ein paar cent weniger bezahlen."

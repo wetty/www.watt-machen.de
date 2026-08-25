@@ -3,6 +3,7 @@ title: Strom Speicher
 subtitle: Für alle Anlagen!
 image: assets/img/portfolio/speicher_400-267.png
 alt: PV Strom Speicher
+layout: page
 
 caption:
   title: Strom Speicher
