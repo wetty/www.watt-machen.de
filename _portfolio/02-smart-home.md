@@ -1,7 +1,7 @@
 ---
 title: Smart Home
 subtitle: Das smarte Haus erledigt alles
-image: assets/img/portfolio/smart-home_400-300.png
+image: https://imgproxy.wetterer.de/insecure/resize:auto:auto:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/smart-home_400-300.png
 alt: Smart Home
 
 caption:
