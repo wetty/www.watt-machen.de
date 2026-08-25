@@ -9,16 +9,27 @@ caption:
   subtitle: Für alle Anlagen nachrüstbar!
   thumbnail: assets/img/portfolio/speicher_400-267.png
 ---
-Je nachdem wem man glaubt gehen die Meinungen was Stromspeicher betrifft von 'Braucht man unbediungt' bis hin zu 'Stromspeicher sind nur reines Hobby'
 
-Die Wahrheit liegt wie so oft irgendwo dazwischen und hängt von vielen Faktoren ab.
+Vor wenigen Jahren waren Stromspeicher noch recht teuer. Mittlerweile sind wesentlich billiger geworden. Mit der aktuellen Technik lassen sich Stromspeicher für alle möglichen PV Anlagen nachrüsten. Selbst ohne PV Anlage kann sich ein Speicher in bestimmten Situationen lohnen. Z.B. um durch einen günstigen zeitbasierten Stromtarif den Speicher zu laden und dann später den Stom aus dem Speicher zu nutzen.
 
-Nehmen wir mal einen 5kWh Speicher, der rund 5000 € kostet.
+## Technik ##
 
+In aller Regel empfehle ich Energie Speicher System von Victron. Diese Systeme sind von der PV Anlage komplett unabhängig. 
 
+Über den Strom Zähler wird erkannt ob gerade Strom eingespeist oder bezogen wird. Wird eingespeist beginnt der Speicher zu laden, genau so viel das die Einspeisung auf null geht.
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+Wird Strom bezogen entlädt das System den Speicher, genau mit der Menge um den Strombezug aus dem Netz auf Null zu bringen.
 
+Speicher sind nahezu in beliebiger Haushalstüblichen Größen möglich. Von 16 kWh bis weit über 100kWh.
+
+## Kosten ##
+
+Aktuell (August 2026) gibt es 16kWh Speicher für weniger als 2000.-€. Dazu kommt ein Wechsel-/Laderichter für unter 600.- Dann ist in den meisten Fällen noch ein zusätlicher Zähler notwendig, der um die 150.- € kostet. Dann och ein paar Kabel und Anschlussmaterialien und der Speicher mit 16kWh kommt auf rund 3500.-
+
+**Achtung!** hierzu kommen noch die Installationskosten durch einen Elektriker.
+
+## Vorteile ##
+
+Sie können Ihren Strom dann nutzen wenn Sie ihn brauchen. D.h. zur Mittagszeit per PV laden und dann in den Abendstunden und über Nacht verbrauchen.
+
+Auch das laden eines eAutos lässt sich damit realisieren. Wenn den Tag über das eAuto unterwegs ist und erst Abends zurück kommt, sieht es mit dem laden per PV  eher schlecht aus. Da lässt sich mit einem ausreichend großen Akku tagsüber der PV Strom sammeln und dann Abends ins Auto transferieren.
