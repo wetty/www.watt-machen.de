@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://watt-machen.de" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Photovoltaik, Speicher, Elektro Mobilität, Smart Home | Watt machen
 email      : thomas@wetterer.de #this is also the email contact forms will go to

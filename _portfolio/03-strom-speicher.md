@@ -34,3 +34,4 @@ Aktuell (August 2026) gibt es 16kWh Speicher für weniger als 2000.-€. Dazu ko
 Sie können Ihren Strom dann nutzen wenn Sie ihn brauchen. D.h. zur Mittagszeit per PV laden und dann in den Abendstunden und über Nacht verbrauchen.
 
 Auch das laden eines eAutos lässt sich damit realisieren. Wenn den Tag über das eAuto unterwegs ist und erst Abends zurück kommt, sieht es mit dem laden per PV  eher schlecht aus. Da lässt sich mit einem ausreichend großen Akku tagsüber der PV Strom sammeln und dann Abends ins Auto transferieren.
+
