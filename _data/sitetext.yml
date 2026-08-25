@@ -77,12 +77,12 @@ de: &DEFAULT_DE
       - title: "Energiegenossenschaft Groß-Umstadt"
         year: "Juni 2026"
         desc: "Mitglied der [Energiegenossenschaft Groß-Umstadt](https://eg-gross-umstadt.de/)"
-        image: assets/img/timeline/logo-egu.png
+        image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/logo-egu.png
         alt: Energiegenossenschaft Groß-Umstadt
       - title: "Heinergy Stromcommunity"
         year: "April 2026"
         desc: "Unsere PV liefert nun Strom an die [Heinergy Stromcommunity](https://www.heinergy.de/)"
-        image: assets/img/timeline/heinergy_logo.png
+        image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/heinergy_logo.png
         alt: Heinergy Stromcommunity
 #      - title: "eAuto"
 #        year: "Juni 2023"
@@ -102,12 +102,12 @@ de: &DEFAULT_DE
       - title: "Stromspeicher"
         year: "2023"
         desc: "Der erste Strom Speicher werden konzipiert und in Betrieb genommen."
-        image: assets/img/timeline/stromspeicher.png
+        image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/stromspeicher.png
         alt:
       - title: "Eigene PV "
         year: "August 2022"
         desc: "Nachdem unser Dach saniert war kam endlich unsere Photovoltaik Anlage mit 19,125 kWp"
-        image: assets/img/timeline/eigenepv.png
+        image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/eigenepv.png
         alt:
 #      - title: "Atlantiküberquerung"
 #        year: "2016"
@@ -122,17 +122,17 @@ de: &DEFAULT_DE
       - title: "Eigenes Ingenieur Büro"
         year: "seit 2005"
         desc: "Nach 10 Jahren als Angestellter mache ich mich mit einem eigenen Ingenieur Büro im Bereich Softwareentwicklung und IT-Services selbstständig"
-        image: assets/img/timeline/logo-ing-buero.png
+        image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/logo-ing-buero.png
         alt:
       - title: "Software Entwickler, Abteilungsleiter, Director Technology"
         year: "bis 2005"
         desc: "Als Software Entwickler in einem Business Reisebüro begonnen. Später Leiter der Entwicklungsabteilung und zum Schluß als Director Technology für alle technischen Bereiche zuständig. In der Position mit dem Unternehmen 1999 an die Börse gegangen"
-        image: assets/img/timeline/logo-job.png
+        image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/logo-job.png
         alt: image alt text
       - title: "Abschluss Diplom Elekroingenieur"
         year: "1993"
         desc: "Erfolgreich das Studium der Elektrotechnik an der Technischen Hochschule Darmstadt abgeschlossen. Heute [TU Darmstadt](https://www.tu-darmstadt.de/)"
-        image: assets/img/timeline/logo-dipl-ing.png
+        image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/logo-dipl-ing.png
         alt:
         # you can enforce the alignment
 #        align: right
