@@ -1,13 +1,13 @@
 ---
 title: Eigene PV Anlage
 subtitle: Nach Dacherneuerung kam die PV mit Ost/West Ausrichtung
-image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/01-full.jpg
+image: https://imgproxy.wetterer.de/insecure/rs:fit:400:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/photovoltaik.png
 alt: PV auf dem Dach
 
 caption:
   title: Photovoltaik Anlage
   subtitle: 19,125 kWp auf Eigenheim
-  thumbnail: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: https://imgproxy.wetterer.de/insecure/rs:fit:400:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/photovoltaik.png
 ---
 
 Photovoltaikanlagen gehören heute zu den wirtschaftlichsten Möglichkeiten, die eigenen Stromkosten dauerhaft zu senken. Während die Strompreise in den vergangenen Jahren starken Schwankungen unterlagen, produziert eine eigene PV-Anlage einen großen Teil des benötigten Stroms direkt auf dem eigenen Dach.
