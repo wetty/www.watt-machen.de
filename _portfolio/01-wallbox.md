@@ -1,13 +1,13 @@
 ---
 title: Wallbox smart machen
 subtitle: Damit Ihre Wallbox das macht was sie soll.
-image: assets/img/portfolio/wallbox_400-267.png
+image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/wallbox_400-267.png
 alt: evcc
 
 caption:
   title: Wallbox smart machen
   subtitle: Echtes Überschuss Laden. Kein entleeren des Speichers.
-  thumbnail: assets/img/portfolio/wallbox_400-267.png
+  thumbnail: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/wallbox_400-267.png
 ---
 
 Es gibt viele unterschiedliche Wallboxen auf dem Markt. Welche die einfach nur laden und welche die intelligent laden, sprich nur den überschüssigen Strom zum laden verwenden.

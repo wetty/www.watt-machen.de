@@ -1,14 +1,14 @@
 ---
 title: Strom Speicher
 subtitle: Für alle Anlagen!
-image: assets/img/portfolio/speicher_400-267.png
+image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/speicher_400-267.png
 alt: PV Strom Speicher
 layout: page
 
 caption:
   title: Strom Speicher
   subtitle: Für alle Anlagen nachrüstbar!
-  thumbnail: assets/img/portfolio/speicher_400-267.png
+  thumbnail: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/speicher_400-267.png
 ---
 
 Vor wenigen Jahren waren Stromspeicher noch recht teuer. Mittlerweile sind wesentlich billiger geworden. Mit der aktuellen Technik lassen sich Stromspeicher für alle möglichen PV Anlagen nachrüsten. Selbst ohne PV Anlage kann sich ein Speicher in bestimmten Situationen lohnen. Z.B. um durch einen günstigen zeitbasierten Stromtarif den Speicher zu laden und dann später den Stom aus dem Speicher zu nutzen.
