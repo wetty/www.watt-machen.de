@@ -1,4 +1,5 @@
 ---
+slug: Wallbox smart machen
 title: Wallbox smart machen
 subtitle: Damit Ihre Wallbox das macht was sie soll.
 image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/wallbox_400-267.png

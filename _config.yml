@@ -27,26 +27,39 @@ logo:     #optional, defaults to site title
 
 locale: "de-DE" # See available languages in _data/sitetext.yml
 
+permalink: /:title/
 
 include:
   - .htaccess
-  - _pages
+#  - _pages
 
 defaults:
   - scope:
-      path: ""
+      path: "_pages"
       type: "pages" 
     values:
       layout: page # overrides previous default layout
-#      permalink: /:basename/
+  - scope:
+      path: "_portfolio"
+      type: "pages" 
+    values:
+      layout: page # overrides previous default layout
 
 analytics:
   google: #Google Analytics tracking code here
 
 collections:
+  pages:
+    output: true
+    permalink: /:title/
+#    values:
+#      layout: page # overrides previous default layout
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:title/
+    values:
+      layout: page # overrides previous default layout
+#    permalink: /:collection/:path/
 
 exclude:
   - Gemfile

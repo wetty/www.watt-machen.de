@@ -1,5 +1,6 @@
 ---
 title: Strom Speicher
+slug: strom-speicher
 subtitle: Für alle Anlagen!
 image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/speicher_400-267.png
 alt: PV Strom Speicher

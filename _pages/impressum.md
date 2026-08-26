@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-permalink: /impressum
+slug: impressum
 ---
 
 ## Angaben gemäß § 5 TMG: ##
