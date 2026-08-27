@@ -31,7 +31,7 @@ de: &DEFAULT_DE
         desc: "Mit § 14a des Energiewirtschaftsgesetzes (EnWG) jährlich rund 130.- sparen. Zusätzlich auch noch für Zeitbasierte Stromtarife ein paar cent weniger bezahlen. [Mehr lesen](/paragraph-14a-enwg/)"
         icon: fas fa-euro-sign #find more at https://fontawesome.com/icons
       - title: "Watt optimieren"
-        desc: "Nutzen Sie Ihren eigenen Strom optimal. Dank Smart Home oder **HEMS** (Home Energy Management System) geht nichts von Ihrem Strom verloren und Sie verringern Ihren Netzbezug"
+        desc: "Nutzen Sie Ihren eigenen Strom optimal. Dank Smart Home oder **HEMS** (Home Energy Management System) geht nichts von Ihrem Strom verloren und Sie verringern Ihren Netzbezug [Mehr lesen](/smart-home/)"
         icon: fas fa-euro-sign #find more at https://fontawesome.com/icons
       - title: "Watt dunkel"
         desc: "Bei Stromausfall schaltet sich normalerweise auch die PV Anlage ab! Nur wenn die Anlage notstromfähig ist, produziert sie weiter Strom."
@@ -40,7 +40,7 @@ de: &DEFAULT_DE
         desc: "Nach der aktuellen/zukünftigen Gesetzeslage wird die garantierte Einspeisevergütung für eingespeisten Strom immer weniger bzw. fällt ganz weg. Stromcommunities oder Direktvermarktung an der Börse können hier helfen."
         icon: fas fa-plus #find more at https://fontawesome.com/icons
       - title: "Watt laden"
-        desc: "Ihre Wallbox lädt immer mit voller Leistung, oder zieht sogar Ihren Stromspeicher leer? Sehr viele Wallboxen lassen sich komfortabel mit evcc steuern. Damit machen sie echtes Überschuss laden."
+        desc: "Ihre Wallbox lädt immer mit voller Leistung, oder zieht sogar Ihren Stromspeicher leer? Sehr viele Wallboxen lassen sich komfortabel mit evcc steuern. Damit machen sie echtes Überschuss laden. [Mehr lesen](/wallbox-smart-machen/)"
         icon: fas fa-charging-station
       - title: "Watt nicht"
         desc: "Ich bin leider kein eingetragener Elektroinstallateur. Damit kann ich kein Elektroinstallationen durchführen! Ich sprechen aber gerne mit Ihrem Elektriker und stimme die notwendigen Maßnahmen mit Ihm ab."

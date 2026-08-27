@@ -33,17 +33,24 @@ include:
   - .htaccess
 #  - _pages
 
+#defaults:
+#  - scope:
+#      path: "_pages"
+#      type: "pages" 
+#    values:
+#      layout: page # overrides previous default layout
+#  - scope:
+#      path: "_portfolio"
+#      type: "pages" 
+#    values:
+#      layout: page # overrides previous default layout
+
 defaults:
   - scope:
-      path: "_pages"
-      type: "pages" 
+      path: "" # Gilt für die gesamte Website
     values:
-      layout: page # overrides previous default layout
-  - scope:
-      path: "_portfolio"
-      type: "pages" 
-    values:
-      layout: page # overrides previous default layout
+      layout: "page" # Name deiner Layout-Datei in _layouts (ohne .html)
+
 
 analytics:
   google: #Google Analytics tracking code here

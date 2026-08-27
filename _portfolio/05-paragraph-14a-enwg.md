@@ -4,7 +4,6 @@ subtitle: Mit Wärmepumpe, Wallbox oder Speicher Netzentgelte sparen
 image: https://imgproxy.wetterer.de/insecure/rs:fit:1024:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/paragraph-14a-enwg.png
 alt: PV auf dem Dach
 slug: paragraph 14a enwg
-layout: page
 
 caption:
   title: §14a EnWG

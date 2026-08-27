@@ -4,7 +4,6 @@ subtitle: Nach Dacherneuerung kam die PV mit Ost/West Ausrichtung
 image: https://imgproxy.wetterer.de/insecure/rs:fit:1024:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/photovoltaik.png
 alt: PV auf dem Dach
 slug: photovoltaik anlage
-layout: page
 
 caption:
   title: Photovoltaik Anlage
