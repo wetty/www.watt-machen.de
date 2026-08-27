@@ -101,7 +101,7 @@ de: &DEFAULT_DE
 #        alt:
       - title: "Stromspeicher"
         year: "2023"
-        desc: "Der erste Strom Speicher werden konzipiert und in Betrieb genommen."
+        desc: "Die ersten Strom Speicher werden konzipiert und in Betrieb genommen."
         image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/stromspeicher.png
         alt:
       - title: "Eigene PV "

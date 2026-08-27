@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 slug: impressum
-image: https://imgproxy.wetterer.de/insecure/rs:fit:1024:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/impressum.png
+image: https://imgproxy.wetterer.de/insecure/rs:fit:1024:0/format:webp/plain/https://watt-machen.de/assets/img/impressum.png
 ---
 
 ## Angaben gemäß § 5 TMG: ##
