@@ -28,7 +28,7 @@ de: &DEFAULT_DE
         desc: "Günstige Strom Speicher Systeme für **alle** PV Anlagen! Auch wenn Ihr Elektriker oder Solateur sagt es wäre zu teuer oder kompliziert. Selbst Speicher ohne PV können sich mit dynamischen Strompreisen lohnen. [Mehr lesen](/strom-speicher/)"
         icon: fas fa-car-battery #find more at https://fontawesome.com/icons
       - title: "Watt sparen"
-        desc: "Mit § 14a des Energiewirtschaftsgesetzes (EnWG) jährlich rund 130.- sparen. Zusätzlich auch noch für Zeitbasierte Stromtarife ein paar cent weniger bezahlen."
+        desc: "Mit § 14a des Energiewirtschaftsgesetzes (EnWG) jährlich rund 130.- sparen. Zusätzlich auch noch für Zeitbasierte Stromtarife ein paar cent weniger bezahlen.[Mehr lesen](/paragraph-14a-enwg/)"
         icon: fas fa-euro-sign #find more at https://fontawesome.com/icons
       - title: "Watt optimieren"
         desc: "Nutzen Sie Ihren eigenen Strom optimal. Dank Smart Home oder **HEMS** (Home Energy Management System) geht nichts von Ihrem Strom verloren und Sie verringern Ihren Netzbezug"
