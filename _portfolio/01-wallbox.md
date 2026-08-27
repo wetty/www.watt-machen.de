@@ -2,13 +2,13 @@
 slug: Wallbox smart machen
 title: Wallbox smart machen
 subtitle: Damit Ihre Wallbox das macht was sie soll.
-image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/wallbox_400-267.png
+image: https://imgproxy.wetterer.de/insecure/rs:fit:1024:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/wallbox.png
 alt: evcc
 
 caption:
   title: Wallbox smart machen
   subtitle: Echtes Überschuss Laden. Kein entleeren des Speichers.
-  thumbnail: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/wallbox_400-267.png
+  thumbnail: https://imgproxy.wetterer.de/insecure/rs:fit:400:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/wallbox.png
 ---
 
 Die Auswahl an Wallboxen ist mittlerweile sehr groß. Neben einfachen Modellen, die das Fahrzeug lediglich laden, gibt es auch intelligente Wallboxen. Diese können beispielsweise erkennen, wann überschüssiger Solarstrom zur Verfügung steht, und diesen gezielt zum Laden des Elektrofahrzeugs nutzen.

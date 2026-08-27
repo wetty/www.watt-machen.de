@@ -1,13 +1,13 @@
 ---
 title: Smart Home
 subtitle: Das smarte Haus erledigt alles
-image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/smart-home_400-300.png
+image: https://imgproxy.wetterer.de/insecure/rs:fit:1024:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/smart-home.png
 alt: Smart Home
 
 caption:
   title: Smart Home
   subtitle: Erledigt Aufgaben ganz von selbst
-  thumbnail: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/portfolio/smart-home_400-300.png
+  thumbnail: https://imgproxy.wetterer.de/insecure/rs:fit:400:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/smart-home.png
 ---
 
 Ein Smart Home kann weit mehr als nur Licht ein- und ausschalten. Richtig eingesetzt hilft es dabei, den selbst erzeugten Solarstrom optimal zu nutzen, Energiekosten zu senken und den Komfort im Alltag zu erhöhen.

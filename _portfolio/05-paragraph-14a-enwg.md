@@ -1,7 +1,7 @@
 ---
-title: §14a EnWG
+title: §14a EnWG - Mit Wärmepumpe, Wallbox oder Speicher Netzentgelte sparen
 subtitle: Mit Wärmepumpe, Wallbox oder Speicher Netzentgelte sparen
-image: https://imgproxy.wetterer.de/insecure/rs:fit:400:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/paragraph-14a-enwg.png
+image: https://imgproxy.wetterer.de/insecure/rs:fit:1024:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/paragraph-14a-enwg.png
 alt: PV auf dem Dach
 slug: paragraph 14a enwg
 layout: page
@@ -11,8 +11,6 @@ caption:
   subtitle: Mit Wärmepumpe, Wallbox oder Speicher Netzentgelte sparen
   thumbnail: https://imgproxy.wetterer.de/insecure/rs:fit:400:0/format:webp/plain/https://watt-machen.de/assets/img/portfolio/paragraph-14a-enwg.png
 ---
-
-# §14a EnWG: Mit Wärmepumpe, Wallbox oder Speicher Netzentgelte sparen
 
 Viele Betreiber von Wärmepumpen, Wallboxen und Batteriespeichern wissen nicht, dass sie ihre Stromkosten durch die Regelungen des §14a Energiewirtschaftsgesetz (EnWG) dauerhaft senken können.
 
