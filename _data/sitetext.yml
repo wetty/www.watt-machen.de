@@ -74,6 +74,11 @@ de: &DEFAULT_DE
     # left is the default
     #start_align: "left"
     events:
+      - title: "Ortsnetz Auslastung"
+        year: "Oktober 2026"
+        desc: "Datenlieferant für das Community-Projekt [Ortsnetz Auslastung](https://www.ortsnetz-auslastung.de/)"
+        image: https://www.ortsnetz-auslastung.de/static/favicon.svg
+        alt: Community-Projekt Ortsnetz Auslastung
       - title: "Energiegenossenschaft Groß-Umstadt"
         year: "Juni 2026"
         desc: "Mitglied der [Energiegenossenschaft Groß-Umstadt](https://eg-gross-umstadt.de/)"
