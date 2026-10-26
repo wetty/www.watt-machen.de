@@ -74,6 +74,11 @@ de: &DEFAULT_DE
     # left is the default
     #start_align: "left"
     events:
+      - title: "Gast im 9vor9 Podcast"
+        year: "Oktober 2026"
+        desc: "Das Zuhause elektrifizieren: Was bei Solaranlage, Speicher und Wallbox wichtig ist [9vor9 YouTube](https://youtu.be/5mRQr_b08yQ?si=elVAi0mjxTmyRhOw)"
+        image: https://imgproxy.wetterer.de/insecure/format:webp/plain/https://watt-machen.de/assets/img/timeline/9vor9_youtube.png
+        alt: Das Zuhause elektrifizieren - Was bei Solaranlage, Speicher und Wallbox wichtig ist
       - title: "Ortsnetz Auslastung"
         year: "Oktober 2026"
         desc: "Datenlieferant für das Community-Projekt [Ortsnetz Auslastung](https://www.ortsnetz-auslastung.de/)"
